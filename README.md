@@ -14,19 +14,16 @@ The system is designed to help prevent drunk driving using automated decision-ma
 ## 📊 Project Output
 
 ### 📈 Bar Graph
-![Bar Graph](images/bar.jpg)
+![Bar](https://raw.githubusercontent.com/your-username/alcohol-detection-system/main/images/bar.jpg)
 
-### 📉 Chart Visualization
-![Chart](images/chart.jpg)
+### 📉 Chart
+![Chart](https://raw.githubusercontent.com/your-username/alcohol-detection-system/main/images/chart.jpg)
 
-### 📊 Dataset (Excel View)
-![Dataset](images/excel.jpg)
+### 🥧 Pie Chart
+![Pie](https://raw.githubusercontent.com/your-username/alcohol-detection-system/main/images/pie.jpg)
 
-### 🥧 Pie Chart Analysis
-![Pie Chart](images/pie.jpg)
-
-### 📋 Data Table
-![Data](images/data.jpg)
+### 📋 Data
+![Data](https://raw.githubusercontent.com/your-username/alcohol-detection-system/main/images/data.jpg)
 
 
 ## 🎯 Objective
