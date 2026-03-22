@@ -11,6 +11,24 @@ The system is designed to help prevent drunk driving using automated decision-ma
 
 ---
 
+## 📊 Project Output
+
+### 📈 Bar Graph
+![Bar Graph](images/bar.jpg)
+
+### 📉 Chart Visualization
+![Chart](images/chart.jpg)
+
+### 📊 Dataset (Excel View)
+![Dataset](images/excel.jpg)
+
+### 🥧 Pie Chart Analysis
+![Pie Chart](images/pie.jpg)
+
+### 📋 Data Table
+![Data](images/data.jpg)
+
+
 ## 🎯 Objective
 
 To develop a software-based model of an alcohol detection system that:
